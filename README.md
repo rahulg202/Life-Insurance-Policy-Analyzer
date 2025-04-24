@@ -48,7 +48,7 @@ A comprehensive web application that uses AI to analyze life insurance policy do
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/life-insurance-policy-analyzer.git
+   git clone https://github.com/rahulg202/Life-Insurance-Policy-Analyzer.git
    cd life-insurance-policy-analyzer
    ```
 
@@ -98,7 +98,3 @@ This application features a Retrieval-Augmented Generation (RAG) pipeline for th
 6. **Generation**: The Gemini API uses this augmented prompt to generate accurate, policy-specific answers
 
 This approach ensures that responses are grounded in the actual policy document content.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
